@@ -1,4 +1,7 @@
-# nodejs_mongoose
+# film_review
+
+backend:nodeJS
+database: mongoDB
 
 1. git clone url
 2. npm install
